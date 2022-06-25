@@ -1,0 +1,53 @@
+.TwitteLogo
+{
+    margin: 10px 612px 0px 612px;
+    text-align: center;
+    font-size: 50px;
+    color: #1aa1f2;
+    
+}
+.Twittertext
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+#name
+{
+    margin: 10px 487px 2.5px 506px;
+    width: 250px;
+    height: 25px;
+    text-align: left;
+    font-size: 7px;
+}
+#Password
+{
+    margin: 2.5px 487px 2.5px 506px;
+    width: 250px;
+    height: 25px;
+    text-align: left;
+    font-size: 7px;
+}
+#Login
+{
+    margin: 7.5px 487px 2.5px 506px;
+    width: 257px;
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+    background-color: rgb(26, 161, 242);
+    color: white;
+    border-radius: 25px;
+    border:none
+}
+.links
+{
+    margin: 10px 300px 10px 550px;
+
+}
+a
+{
+    font-size: 10px;
+    color: rgb(26, 161, 242);
+    text-decoration: none;
+}
